@@ -31,11 +31,11 @@ h1{
 }
 
 .wrap:hover .boxb{
-    transform: translate(30px);
+    transform: translate(60px);
 }
 
 .wrap:hover .boxc{
-    transform: translate(30px) scale(2);
+    transform: translate(60px) scale(2);
 }
 
 .wrap:hover .boxd{
@@ -51,15 +51,15 @@ h1{
 }
 
 .wrap:hover .boxg{
-    transform: translate(30px) scale(2) rotate(180deg);
+    transform: translate(60px) scale(2) rotate(180deg);
 }
 
 .wrap:hover .boxh{
-    transform: translate(30px) scale(2) rotate(360deg);
+    transform: translate(60px) scale(2) rotate(360deg);
 }
 
 .wrap:hover .boxi{
-    transform: translate(30px) scale(2) rotate(720deg);
+    transform: translate(60px) scale(2) rotate(720deg);
 }
 
 .box1, .box4, .box7, .box10{
